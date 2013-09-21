@@ -1,0 +1,9 @@
+c:\Users\Rumesh\Documents\Visual Studio 2010\Projects\USBLocker\USBLocker\bin\Debug\USBLocker.exe
+c:\Users\Rumesh\Documents\Visual Studio 2010\Projects\USBLocker\USBLocker\bin\Debug\USBLocker.pdb
+c:\Users\Rumesh\Documents\Visual Studio 2010\Projects\USBLocker\USBLocker\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\Rumesh\Documents\Visual Studio 2010\Projects\USBLocker\USBLocker\obj\x86\Debug\USBLocker.frmUSBLocker.resources
+c:\Users\Rumesh\Documents\Visual Studio 2010\Projects\USBLocker\USBLocker\obj\x86\Debug\USBLocker.Properties.Resources.resources
+c:\Users\Rumesh\Documents\Visual Studio 2010\Projects\USBLocker\USBLocker\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Users\Rumesh\Documents\Visual Studio 2010\Projects\USBLocker\USBLocker\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Users\Rumesh\Documents\Visual Studio 2010\Projects\USBLocker\USBLocker\obj\x86\Debug\USBLocker.exe
+c:\Users\Rumesh\Documents\Visual Studio 2010\Projects\USBLocker\USBLocker\obj\x86\Debug\USBLocker.pdb
